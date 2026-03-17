@@ -1,0 +1,38 @@
+/* Fundo geral */
+body {
+    background-color: #f7f1c8;   /* amarelo claro */
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 40px;
+    color: #333;
+}
+
+/* Títulos */
+h1 {
+    text-align: center;
+    color: #b8860b; /* dourado */
+    font-size: 2em;
+}
+
+h2 {
+    color: #ff0c0c; /* dourado */
+    font-size: 1.6em;
+}
+
+/* Parágrafos */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* Links */
+a {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #001f80; /* azul escuro */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
